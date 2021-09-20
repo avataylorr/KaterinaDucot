@@ -37,3 +37,8 @@ img{
 figcaption{
     font-size: medium;
     line-height: 25px;}
+image.kat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
