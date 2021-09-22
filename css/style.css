@@ -10,7 +10,7 @@ table{
     font-size: x-large;
     margin-left: 50px; 
     margin-right: 50px;
-    border: 2px solid black;
+    border: 5px;
     border-style: dotted;
     padding: 20px;
     column-gap: 20px;
